@@ -1,4 +1,4 @@
-# Battle! City
+# Battle! City 《戰鬥吧！都市》
 
 # Script v1
 
